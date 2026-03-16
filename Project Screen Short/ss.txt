@@ -1,0 +1,2 @@
+This file include some screen short from our aplication. 
+Here I took : 'Hello' as my input. 
