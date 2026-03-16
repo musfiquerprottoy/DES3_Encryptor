@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=DES3 Encryptor/Decryptor
+Comment=A Triple DES encryption and decryption tool
+Exec=/media/media/Project1/dist/DES3
+Icon=application-x-executable
+Terminal=false
+Type=Application
+Categories=Utility;Security;
